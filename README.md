@@ -41,6 +41,5 @@
 
 
 ![Sujith's GitHub stats](https://github-readme-stats.vercel.app/api?username=BolisettySujith&show_icons=true&theme=radical) 
+<a href="https://octodex.github.com/jetpacktocat/"><img src="https://octodex.github.com/images/topguntocat.png" width="500"  align="Right"></a>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BolisettySujith&theme=radical)
-
-<a href="https://octodex.github.com/jetpacktocat/"><img src="https://octodex.github.com/images/topguntocat.png" width="500"  align="Middle"></a>

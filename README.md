@@ -18,6 +18,7 @@
 
 ## 🧰 Languages and Tools:
 <p align="center">
+
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
@@ -43,7 +44,6 @@
 
 
 ![Sujith's GitHub stats](https://github-readme-stats.vercel.app/api?username=BolisettySujith&show_icons=true&theme=radical) 
-<a href="https://octodex.github.com/jetpacktocat/"><img src="https://octodex.github.com/images/topguntocat.png" width="500"  align="Right"></a>
+<a href="https://octodex.github.com/jetpacktocat/"><img src="https://octodex.github.com/images/topguntocat.png" width="500"  align="left"></a>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BolisettySujith&theme=radical)
-
 <p align="center"><a href="https://github.com/BolisettySujith"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>

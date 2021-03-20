@@ -1,6 +1,6 @@
  <p align="center"><a href="https://github.com/BolisettySujith"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></a></p>
 
-## Hello coder's, I'm Sujith 👋
+# Hello coder's, I'm Sujith 👋
 
 ### About Me👨‍💻
 
@@ -38,6 +38,8 @@
  <a href="https://www.facebook.com/sujith.bolisetty" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="FB" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:bsujith116@gmail.com@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Mail" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="https://web.telegram.org/#/im?p=@Suj8_116"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" alt="Mail" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="https://twitter.com/Suj8_116"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Mail" height="40" style="vertical-align:top; margin:4px"></a>
+
 </p>
 
 <br />

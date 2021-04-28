@@ -7,6 +7,7 @@
 - 🏫 I'm a computer science(AI) Engineering fresher at Amrita Vishwa Vidyapeetham, in the state of Kerala
 
 - 🧍‍♂️ I'm currently a member at [amfoss](http://www.amfoss.in)
+<a href="https://octodex.github.com/jetpacktocat/"><img src="https://octodex.github.com/images/spidertocat.png" width="300"  align="Right"></a>
 
 - 💻 I'm learning Coding, Android & web development
 
@@ -30,7 +31,6 @@
 
 </p>
 
-<a href="https://octodex.github.com/jetpacktocat/"><img src="https://octodex.github.com/images/spidertocat.png" width="300"  align="Right"></a>
 
 
 ### 🌐Find Me on :
@@ -39,6 +39,7 @@
  <a href="mailto:bsujith116@gmail.com@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Mail" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="https://web.telegram.org/#/im?p=@Suj8_116"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" alt="Mail" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://twitter.com/Suj8_116"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Mail" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="https://www.instagram.com/_suj8_/"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Insta" height="40" style="vertical-align:top; margin:4px"></a>
 
 </p>
 

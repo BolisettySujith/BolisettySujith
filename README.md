@@ -46,7 +46,7 @@
 <br />
 
 ![Sujith's GitHub stats](https://github-readme-stats.vercel.app/api?username=BolisettySujith&show_icons=true&theme=radical)
-<img src="topguntocat.png" width="350" >
+<img src="topguntocat1.png" width="350" >
 
 
 <p align="center"><a href="https://github.com/BolisettySujith"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>

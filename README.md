@@ -1,6 +1,7 @@
  <p align="center"><a href="https://github.com/BolisettySujith"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></a></p>
 
 # Hello coder's, I'm Sujith 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BolisettySujith" alt="BolisettySujith" /> </p>
 
 ### About Me👨‍💻
 
@@ -46,7 +47,8 @@
 <br />
 
 ![Sujith's GitHub stats](https://github-readme-stats.vercel.app/api?username=BolisettySujith&show_icons=true&theme=radical)
-<img src="topguntocat1.png" width="350" >
+<img src="topguntocat1.png" width="300" >
 
+[![Sujith's github activity graph](https://activity-graph.herokuapp.com/graph?username=BolisettySujith&theme=react-dark)](https://github.com/BolisettySujith)
 
 <p align="center"><a href="https://github.com/BolisettySujith"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>

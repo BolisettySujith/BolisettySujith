@@ -49,8 +49,6 @@
 ![Sujith's GitHub stats](https://github-readme-stats.vercel.app/api?username=BolisettySujith&show_icons=true&theme=radical)
 <img src="topguntocat1.png" width="300" >
 
-[![Sujith's github activity graph](https://activity-graph.herokuapp.com/graph?username=BolisettySujith&theme=react-dark)](https://github.com/BolisettySujith)
-
 ### Recent projects😉
 
 <a href="https://github.com/BolisettySujith/J.A.R.V.I.S">

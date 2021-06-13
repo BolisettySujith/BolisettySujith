@@ -10,9 +10,9 @@
 - 🧍‍♂️ I'm currently a member at [amfoss](http://www.amfoss.in)
 <a href="https://octodex.github.com/jetpacktocat/"><img src="https://octodex.github.com/images/spidertocat.png" width="300"  align="Right"></a>
 
-- 💻 I'm learning Coding, Android development
+- 💻 I'm currently learning Android & flutter app's development
 
-- 🗣 I love to talk with my computer, after working with my [JARVIS](https://github.com/BolisettySujith/J.A.R.V.I.S) project
+- 🗣 I started loving to talk with my computer, after working with my [JARVIS](https://github.com/BolisettySujith/J.A.R.V.I.S) project
 
 - 💬 Ask me about : Java, 🐍Python, 🎸Acoustic guitar, computers😅
 
@@ -27,6 +27,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="android" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="flutter" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="ubuntu" height="40" style="vertical-align:top; margin:4px">
 
 

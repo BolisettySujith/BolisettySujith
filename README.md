@@ -29,11 +29,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="android" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="flutter" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="ubuntu" height="40" style="vertical-align:top; margin:4px">
-
-
 </p>
-
-
 
 ### 🌐Find Me on :
 <p align="center">
@@ -42,7 +38,7 @@
  <a href="https://web.telegram.org/#/im?p=@Suj8_116"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" alt="Mail" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://twitter.com/Suj8_116"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Mail" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://www.instagram.com/_suj8_/"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Insta" height="40" style="vertical-align:top; margin:4px"></a>
-
+<a href="https://dev.to/bolisettysujith/"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" alt="Insta" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <br />

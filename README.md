@@ -39,6 +39,7 @@
 <a href="https://twitter.com/Suj8_116"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Mail" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://www.instagram.com/_suj8_/"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Insta" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://dev.to/bolisettysujith/"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" alt="Insta" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="https://medium.com/@bsujith116/"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Insta" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <br />

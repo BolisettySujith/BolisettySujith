@@ -44,29 +44,25 @@
 </table>
 
 <table>
-    <tr>
-      <td>
-        <div align="center">
-          <img src="https://img.icons8.com/color/128/000000/python.png" alt="python" width="50" height="50" />
-          <img src="https://img.icons8.com/color/128/000000/javascript.png" alt="javascript" width="50" height="50" />
-          <img src="https://img.icons8.com/color/128/000000/react-native.png" alt="react" width="50" height="50" />
-          <img src="https://img.icons8.com/color/128/000000/django.png" alt="django" width="50" height="50" />
-          <img src="https://img.icons8.com/color/128/000000/git.png" alt="git" width="50" height="50" />
-          <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="36" height="36" />
-          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="android" height="40" style="vertical-align:top; margin:4px">
-          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="flutter" height="40" style="vertical-align:top; margin:4px">
-          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="ubuntu" height="40" style="vertical-align:top; margin:4px">
-          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-        </div>
-    </td>
-  </tr>
+  <p align="center">
+    <img src="https://img.icons8.com/color/128/000000/python.png" alt="python" width="50" height="50" />
+    <img src="https://img.icons8.com/color/128/000000/javascript.png" alt="javascript" width="50" height="50" />
+    <img src="https://img.icons8.com/color/128/000000/react-native.png" alt="react" width="50" height="50" />
+    <img src="https://img.icons8.com/color/128/000000/django.png" alt="django" width="50" height="50" />
+    <img src="https://img.icons8.com/color/128/000000/git.png" alt="git" width="50" height="50" />
+    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="36" height="36" />
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="android" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="flutter" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="ubuntu" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+  </p>
 </table>
 
 
 ## Recent projects😉
 
-<a href="https://github.com/BolisettySujith/J.A.R.V.I.S">
+<p align="center"><a href="https://github.com/BolisettySujith/J.A.R.V.I.S">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BolisettySujith&repo=J.A.R.V.I.S&theme=radical" />
-</a>
+</a></p>
 
 <p align="center"><a href="https://github.com/BolisettySujith"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>

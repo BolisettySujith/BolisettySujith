@@ -1,22 +1,19 @@
  <p align="center"><a href="https://github.com/BolisettySujith"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></a></p>
 
-<div align="center">
+<div align="left">
   <h1>Hello coders, I'm Sujith! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
-<p align="center">
-  <a href="https://twitter.com/Suj8_116" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Bolisetty Sujith"  /></a>&nbsp;
-  <a href="https://dev.to/bolisettysujith"><img align="center" alt="devto" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a>
-  <a href="https://medium.com/@bsujith116"><img align="center" alt="Medium" src="https://img.shields.io/badge/medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/bolisetty-sujith-52a154214/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Bolisetty Sujith" /></a>&nbsp;
-</p>
-<p align="center">
-  <a href="https://www.instagram.com/_suj8_/" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-FF5722?style=for-the-badge&logo=instagram&logoColor=white" alt="Bolisetty Sujith" /></a>&nbsp;
-  <a href="https://www.facebook.com/sujith.bolisetty/" target="blank"><img align="center" src="https://img.shields.io/badge/facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Bolisetty Sujith" /></a>&nbsp;
-  <a href="https://web.telegram.org/#/im?p=@Suj8_116" target="blank"><img align="center" src="https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" alt="Bolisetty Sujith" /></a>&nbsp;
-  <a href="mailto:bsujith116@gmail.com@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-FF5722?style=for-the-badge&logo=gmail&logoColor=white" alt="Bolisetty Sujith" /></a>&nbsp;
-</p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=BolisettySujith" alt="BolisettySujith" /> </p>
+[![twitter badge](https://img.shields.io/badge/twitter-_Suj8_116-0077b5?style=social&logo=twitter)](https://twitter.com/Suj8_116)
+[![linkedin badge](https://img.shields.io/badge/linkedin-bolisetty_sujith-0077b5?style=social&logo=linkedin)](https://www.linkedin.com/in/bolisetty-sujith-52a154214/)
+[![dev community badge](https://img.shields.io/badge/dev-Bolisetty_Sujith-0077b5?style=social&logo=dev.to)](https://dev.to/bolisettysujith)
+[![Medium badge](https://img.shields.io/badge/medium-Bolisetty_Sujith-0077b5?style=social&logo=medium)](https://medium.com/@bsujith116)
+[![telegram badge](https://img.shields.io/badge/telegram-suj8__116-0077b5?style=social&logo=telegram)](https://web.telegram.org/#/im?p=@Suj8_116)
+[![blog badge](https://img.shields.io/badge/website-bolisettysujith.github.io-1f425f?style=social)](https://bolisettysujith.github.io/)
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=BolisettySujith" alt="BolisettySujith" /> 
+</p>
 
 ## About Me👨‍💻
 

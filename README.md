@@ -15,7 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=BolisettySujith" alt="BolisettySujith" /> 
 </p>
 
-## About Me👨‍💻
+## About Me😇
 
 - 🏫 I'm a computer science(AI) Undergraduate(2020-2024)
 
@@ -24,22 +24,13 @@
 - 💻 I'm currently learning Android & flutter app's development and some cool stuff in python
 
 
-- 💬 Ask me about : Java, 🐍Python, Designing, 🎸Acoustic guitar, computers😅
+- 💬 Ask me about : <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="15" height="15" /> Java, 🐍Python, 🎨Designing, 🎸Acoustic guitar, 💻computers😅
 
-- 😁 Pronouns: He/His/Him
+- 🗣 Pronouns: He/His/Him
 
-- 🗣 Fun fact :  I love to talk with my laptop
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=BolisettySujith&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&theme=radical" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=BolisettySujith&theme=radical&hide_border=false" />
-    </td>
-  </tr>
-</table>
+- 😁 Fun fact :  I love to talk with my laptop
 
+### Skills👨‍💻
 <table>
   <p align="center">
     <img src="https://img.icons8.com/color/128/000000/python.png" alt="python" width="50" height="50" />
@@ -55,6 +46,16 @@
   </p>
 </table>
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=BolisettySujith&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=BolisettySujith&theme=radical&hide_border=false" />
+    </td>
+  </tr>
+</table>
 
 ## Recent projects😉
 

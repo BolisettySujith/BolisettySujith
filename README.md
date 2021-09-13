@@ -9,7 +9,7 @@
 [![dev community badge](https://img.shields.io/badge/dev-Bolisetty_Sujith-0077b5?style=social&logo=dev.to)](https://dev.to/bolisettysujith)
 [![Medium badge](https://img.shields.io/badge/medium-Bolisetty_Sujith-0077b5?style=social&logo=medium)](https://medium.com/@bsujith116)
 [![telegram badge](https://img.shields.io/badge/telegram-suj8__116-0077b5?style=social&logo=telegram)](https://web.telegram.org/#/im?p=@Suj8_116)
-[![blog badge](https://img.shields.io/badge/website-bolisettysujith.github.io-1f425f?style=social)](https://bolisettysujith.github.io/)
+[![blog badge](https://img.shields.io/badge/website-bolisettysujith.rocks-1f425f?style=social)](https://bolisettysujith.rocks)
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=BolisettySujith" alt="BolisettySujith" /> 

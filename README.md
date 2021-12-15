@@ -34,11 +34,15 @@
 <table>
   <p align="center">
     <img src="https://img.icons8.com/color/128/000000/python.png" alt="python" width="50" height="50" />
-    <img src="https://img.icons8.com/color/128/000000/javascript.png" alt="javascript" width="50" height="50" />
-    <img src="https://img.icons8.com/color/128/000000/react-native.png" alt="react" width="50" height="50" />
     <img src="https://img.icons8.com/color/128/000000/django.png" alt="django" width="50" height="50" />
     <img src="https://img.icons8.com/color/128/000000/git.png" alt="git" width="50" height="50" />
     <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="36" height="36" />
+    <img src="https://img.icons8.com/color/128/000000/javascript.png" alt="javascript" width="50" height="50" />
+    <img src="https://img.icons8.com/color/128/000000/react-native.png" alt="react" width="50" height="50" />
+    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="java" width="36" height="36" />
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="java" width="36" height="36" />
+    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="java" width="36" height="36" />
+    <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" alt="NextJS" width="36" height="36" />
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="android" height="40" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="flutter" height="40" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="ubuntu" height="40" style="vertical-align:top; margin:4px">

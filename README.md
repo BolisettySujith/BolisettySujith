@@ -24,7 +24,7 @@
 - 💻 I'm currently learning Android & flutter app's development and some cool stuff in python
 
 
-- 💬 Ask me about : <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="15" height="15" /> Java, 🐍Python, 🎨Designing, 🎸Acoustic guitar, 💻computers😅
+- 💬 Ask me about : <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="15" height="15" /> Java, 🐍Python, Flutter, 🎨Designing, 🎸Acoustic guitar, 💻computers😅
 
 - 🗣 Pronouns: He/His/Him
 

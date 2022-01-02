@@ -28,7 +28,7 @@
 
 - 🗣 Pronouns: He/His/Him
 
-- 😁 Fun fact :  I love to talk with my laptop
+- 😁 Fun fact :  I had build a voice assistant which helps me in doing some small tasks and it supports only for windows, but I use windows rearly.   
 
 ## Skills👨‍💻
 <table>

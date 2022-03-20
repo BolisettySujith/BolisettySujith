@@ -1,5 +1,7 @@
  <p align="center"><a href="https://github.com/BolisettySujith"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></a></p>
 
+<p align="center"><img src="header.png" alt="Covi Kill" width="100%"/></a></p>
+
 <div align="left">
   <h1>Hello coders, I'm Sujith! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
@@ -65,6 +67,9 @@
 <p align="center">
  <a href="https://github.com/BolisettySujith/J.A.R.V.I.S">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BolisettySujith&repo=J.A.R.V.I.S&theme=radical" />
+ </a>
+  <a href="https://github.com/BolisettySujith/Covi-Kill">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BolisettySujith&repo=Covi-Kill&theme=radical" />
  </a>
  <a href="https://github.com/BolisettySujith/Just-Listen">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BolisettySujith&repo=Just-Listen&theme=radical" /> 

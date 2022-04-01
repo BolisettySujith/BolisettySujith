@@ -6,7 +6,7 @@
   <h1>Hello coders, I'm Sujith! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
-[![twitter badge](https://img.shields.io/badge/twitter-_Suj8__116-0077b5?style=social&logo=twitter)](https://twitter.com/Suj8_116)
+[![twitter badge](https://img.shields.io/badge/twitter-_bolisettysujith-0077b5?style=social&logo=twitter)](https://twitter.com/bolisettysujith)
 [![linkedin badge](https://img.shields.io/badge/linkedin-bolisetty_sujith-0077b5?style=social&logo=linkedin)](https://www.linkedin.com/in/bolisetty-sujith-52a154214/)
 [![dev community badge](https://img.shields.io/badge/dev-Bolisetty_Sujith-0077b5?style=social&logo=dev.to)](https://dev.to/bolisettysujith)
 [![Medium badge](https://img.shields.io/badge/medium-Bolisetty_Sujith-0077b5?style=social&logo=medium)](https://medium.com/@bsujith116)

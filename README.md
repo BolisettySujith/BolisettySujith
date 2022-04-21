@@ -19,11 +19,11 @@
 
 ## About Me😇
 
-- 🏫 I'm a computer science(AI) Undergraduate(2020-2024)
+- 🏫 I'm a Computer Science(AI) Undergraduate(2020-2024)
 
 - 🧍‍♂️ I'm currently an active member at [amFOSS](http://www.amfoss.in)
 
-- 💻 I'm currently learning 💠 Flutter app's development
+- 💻 I'm currently exploring 💠 Flutter app's development
 
 - 💬 Ask me about : <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="15" height="15" /> Java, 🐍Python, Flutter, 🎨Designing, 🎸Acoustic guitar, 💻computers😅
 

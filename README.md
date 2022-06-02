@@ -3,7 +3,7 @@
 <p align="center"><img src="header.png" alt="Covi Kill" width="100%"/></a></p>
 
 <div align="left">
-  <h1>Hello coders, I'm Sujith! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+  <h1>Hello coders, I'm Sujith! 👋 </h1>
 </div>
 
 [![twitter badge](https://img.shields.io/badge/twitter-_bolisettysujith-0077b5?style=social&logo=twitter)](https://twitter.com/bolisettysujith)

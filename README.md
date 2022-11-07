@@ -1,6 +1,6 @@
  <p align="center"><a href="https://github.com/BolisettySujith"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></a></p>
 
-<p align="center"><img src="header.png" alt="Covi Kill" width="100%"/></a></p>
+<p align="center"><img src="header.gif" alt="Covi Kill" width="100%"/></a></p>
 
 <div align="left">
   <h1>Hello coders, I'm Sujith! 👋 </h1>

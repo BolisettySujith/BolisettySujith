@@ -11,7 +11,7 @@
 [![dev community badge](https://img.shields.io/badge/dev-Bolisetty_Sujith-0077b5?style=social&logo=dev.to)](https://dev.to/bolisettysujith)
 [![Medium badge](https://img.shields.io/badge/medium-Bolisetty_Sujith-0077b5?style=social&logo=medium)](https://medium.com/@bsujith116)
 [![telegram badge](https://img.shields.io/badge/telegram-Suj8_h-0077b5?style=social&logo=telegram)](https://t.me/Suj8_h)
-[![blog badge](https://img.shields.io/badge/website-bolisettysujith.rocks-1f425f?style=social)](https://bolisettysujith.rocks)
+[![blog badge](https://img.shields.io/badge/website-bolisettysujith.github.io-1f425f?style=social)](https://bolisettysujith.github.io)
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=BolisettySujith" alt="BolisettySujith" /> 
@@ -21,15 +21,17 @@
 
 - 🏫 I'm a Computer Science(AI) Undergraduate(2020-2024)
 
-- 🧍‍♂️ I'm currently an active member at [amFOSS](http://www.amfoss.in)
+- 🧍‍♂️ I'm currently an active member & mentor at [amFOSS](http://www.amfoss.in)
 
-- 💻 I'm currently exploring 💠 Flutter app's development
+- 😎 Augmented Reality & Virtual Reality enthusiast
 
-- 💬 Ask me about : <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="15" height="15" /> Java, 🐍Python, Flutter, 🎨Designing, 🎸Acoustic guitar, 💻computers😅
+- 💻 I'm currently working on building 💠Flutter & 📱Native Android app's
+
+- 💬 Ask me about : 💙Flutter, 👽Android, 🎨Designing, 🎸Acoustic guitar, 💻computers😅
+
+- ⌨ Touch typing is one of my hobbie, and I'm curretnly maintaining a speed of 60WPM😉
 
 - 🗣 Pronouns: He/His/Him
-
-- 😁 Fun fact :  I had built a voice assistant which helps me in doing some small tasks and it supports only for windows, but I use windows rarely.   
 
 ## Skills👨‍💻
 <table>

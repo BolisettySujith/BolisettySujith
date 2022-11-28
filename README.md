@@ -64,7 +64,7 @@
   </tr>
 </table>
 
-## Recent projects😉
+## Projects😉
 
 <table>
   <tr>

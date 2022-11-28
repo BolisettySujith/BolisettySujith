@@ -1,6 +1,6 @@
  <p align="center"><a href="https://github.com/BolisettySujith"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></a></p>
 
-<p align="center"><img src="header.gif" alt="Covi Kill" width="100%"/></a></p>
+<p align="center"><img src="gifs/header.gif" alt="Profile" width="100%"/></a></p>
 
 <div align="left">
   <h1>Hello coders, I'm Sujith! 👋 </h1>
@@ -79,9 +79,9 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/BolisettySujith/Just-Listen">
+      <!-- <a href="https://github.com/BolisettySujith/Just-Listen">
         <img src="gifs\justlisten.gif">
-      </a>
+      </a> -->
     </td>
   </tr>
   <tr>
@@ -93,6 +93,42 @@
     <td>
       <a href="https://github.com/BolisettySujith/Covi-Kill">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BolisettySujith&repo=Covi-Kill&theme=radical" />
+      </a>
+    </td>
+    <td>
+      <!-- <a href="https://github.com/BolisettySujith/Just-Listen">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BolisettySujith&repo=Just-Listen&theme=radical" /> 
+      </a> -->
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Akshatji800/Relive">
+        <img src="gifs\relive.gif ">
+      </a>
+    </td>    
+    <td>
+      <a href="https://github.com/BolisettySujith/Share-Karo">
+        <img src="gifs\sharekaro.gif">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/BolisettySujith/Just-Listen">
+        <img src="gifs\justlisten.gif">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Akshatji800/Relive">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshatji800&repo=Relive&theme=radical" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/BolisettySujith/Share-Karo">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BolisettySujith&repo=Share-Karo&theme=radical" />
       </a>
     </td>
     <td>

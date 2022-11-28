@@ -66,17 +66,42 @@
 
 ## Recent projects😉
 
-<p align="center">
- <a href="https://github.com/BolisettySujith/J.A.R.V.I.S">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BolisettySujith&repo=J.A.R.V.I.S&theme=radical" />
- </a>
-  <a href="https://github.com/BolisettySujith/Covi-Kill">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BolisettySujith&repo=Covi-Kill&theme=radical" />
- </a>
- <a href="https://github.com/BolisettySujith/Just-Listen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BolisettySujith&repo=Just-Listen&theme=radical" /> 
- </a>
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/BolisettySujith/J.A.R.V.I.S">
+        <img src="gifs\jarvis.gif ">
+      </a>
+    </td>    
+    <td>
+      <a href="https://github.com/BolisettySujith/J.A.R.V.I.S">
+        <img src="gifs\covikill.gif">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/BolisettySujith/Just-Listen">
+        <img src="gifs\justlisten.gif">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/BolisettySujith/J.A.R.V.I.S">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BolisettySujith&repo=J.A.R.V.I.S&theme=radical" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/BolisettySujith/Covi-Kill">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BolisettySujith&repo=Covi-Kill&theme=radical" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/BolisettySujith/Just-Listen">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BolisettySujith&repo=Just-Listen&theme=radical" /> 
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### Watch my contribution graph get eaten by the snake 🐍
 <p align="center">

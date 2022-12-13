@@ -74,7 +74,7 @@
       </a>
     </td>    
     <td>
-      <a href="https://github.com/BolisettySujith/J.A.R.V.I.S">
+      <a href="https://github.com/BolisettySujith/Covi-Kill">
         <img align="center" src="gifs\covikill.gif">
       </a>
     </td>

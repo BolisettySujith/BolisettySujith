@@ -17,23 +17,23 @@
   <img src="https://komarev.com/ghpvc/?username=BolisettySujith" alt="BolisettySujith" /> 
 </p>
 
-## About Me😇
+## About Me 😇
 
 - 🏫 I'm a Computer Science(AI) Undergraduate(2020-2024)
 
 - 🧍‍♂️ I'm currently an active member & mentor at [amFOSS](http://www.amfoss.in)
 
-- 😎 Augmented Reality & Virtual Reality enthusiast
+- 😎 Building [NaviG](https://bolisettysujith.github.io/NaviG/), an Indoor Navigtion application.
 
 - 💻 I'm currently working on building 💠Flutter & 📱Native Android app's
 
-- 💬 Ask me about : 💙Flutter, 👽Android, 🎨Designing, 🎸Acoustic guitar, 💻computers😅
+- 💬 Ask me about : 💙Flutter, 👽Android, 🎨Designing, 🎸Acoustic guitar, 💻computers 😅
 
-- ⌨ Touch typing is one of my hobbie, and I'm curretnly maintaining a speed of 60WPM😉
+- ⌨ Touch typing is one of my hobbie, and I'm curretnly maintaining a speed of ~75WPM 😉
 
 - 🗣 Pronouns: He/His/Him
 
-## Skills👨‍💻
+## Skills 👨‍💻
 <table>
   <p align="center">
     <img src="https://img.icons8.com/color/128/000000/python.png" alt="python" width="50" height="50" />
@@ -64,7 +64,7 @@
   </tr>
 </table>
 
-## Projects😉
+## Projects 😉
 
 <table>
   <tr>
@@ -133,4 +133,17 @@
 <p align="center">
  <img align="center" src="https://github.com/BolisettySujith/BolisettySujith/blob/output/github-contribution-grid-snake.svg" />
 </p>
+
+
+### Let's Connect 👥
+<p align="center">
+  <a href="https://bolisettysujith.github.io"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+  <a href="mailto:bsujith116@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+  <a href="https://github.com/BolisettySujith"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/bolisettysujith/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+ <a href="https://twitter.com/bolisettysujith/"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" alt="Twitter"/></a>
+ <a href="https://t.me/Suj8_h"><img src="https://img.icons8.com/bubbles/50/000000/telegram-app.png" alt="Telegram"/></a>
+</p>
+
+
 <p align="center"><a href="https://github.com/BolisettySujith"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>

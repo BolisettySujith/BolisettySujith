@@ -23,7 +23,7 @@
 
 - 🧍‍♂️ I'm currently an active member & mentor at [amFOSS](http://www.amfoss.in)
 
-- 😎 Building [NaviG](https://bolisettysujith.github.io/NaviG/), an Indoor Navigtion application.
+- 😎 Building [NaviG](https://bolisettysujith.github.io/NaviG/), an Indoor Navigtion application
 
 - 💻 I'm currently working on building 💠Flutter & 📱Native Android app's
 

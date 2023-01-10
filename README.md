@@ -70,12 +70,12 @@
   <tr>
     <td>
       <a href="https://github.com/BolisettySujith/J.A.R.V.I.S">
-        <img align="center" src="gifs\jarvis.gif ">
+        <img align="center" src="gifs/jarvis.gif ">
       </a>
     </td>    
     <td>
       <a href="https://github.com/BolisettySujith/Covi-Kill">
-        <img align="center" src="gifs\covikill.gif">
+        <img align="center" src="gifs/covikill.gif">
       </a>
     </td>
   </tr>
@@ -96,17 +96,17 @@
   <tr>
     <td>
       <a href="https://github.com/Akshatji800/Relive">
-        <img align="center" src="gifs\relive.gif ">
+        <img align="center" src="gifs/relive.gif ">
       </a>
     </td>    
     <td>
       <a href="https://github.com/BolisettySujith/Share-Karo">
-        <img align="center" src="gifs\sharekaro.gif">
+        <img align="center" src="gifs/sharekaro.gif">
       </a>
     </td>
     <td>
       <a href="https://github.com/BolisettySujith/Just-Listen">
-        <img align="center" src="gifs\justlisten.gif">
+        <img align="center" src="gifs/justlisten.gif">
       </a>
     </td>
   </tr>

@@ -66,6 +66,7 @@
 
 ## Projects 😉
 
+<div align="center">
 <table>
   <tr>
     <td>
@@ -128,6 +129,17 @@
     </td>
   </tr>
 </table>
+</div>
+
+### Download my apps from playstore 📥
+<div align="center">
+ <a href="https://play.google.com/store/apps/dev?id=6389705189108579468">
+  <p align="center">
+   <img src="https://github.com/steverichey/google-play-badge-svg/blob/master/img/en_get.svg" width="40%">
+  </p>
+ </a>
+</div>
+
 
 ### Watch my contribution graph get eaten by the snake 🐍
 <p align="center">

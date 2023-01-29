@@ -33,7 +33,7 @@
 
 - 🗣 Pronouns: He/His/Him
 
-## Skills 👨‍💻
+<!-- ## Skills 👨‍💻
 <table>
   <p align="center">
     <img src="https://img.icons8.com/color/128/000000/python.png" alt="python" width="50" height="50" />
@@ -51,8 +51,8 @@
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="ubuntu" height="40" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
   </p>
-</table>
-
+</table> -->
+## Github Stats 👨‍💻
 <table>
   <tr>
     <td align="center">

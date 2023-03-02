@@ -7,7 +7,7 @@
 </div>
 
 [![twitter badge](https://img.shields.io/badge/twitter-_bolisettysujith-0077b5?style=social&logo=twitter)](https://twitter.com/bolisettysujith)
-[![linkedin badge](https://img.shields.io/badge/linkedin-bolisetty_sujith-0077b5?style=social&logo=linkedin)](https://www.linkedin.com/in/bolisetty-sujith-52a154214/)
+[![linkedin badge](https://img.shields.io/badge/linkedin-bolisetty_sujith-0077b5?style=social&logo=linkedin)](https://www.linkedin.com/in/bolisettysujith/)
 [![dev community badge](https://img.shields.io/badge/dev-Bolisetty_Sujith-0077b5?style=social&logo=dev.to)](https://dev.to/bolisettysujith)
 [![Medium badge](https://img.shields.io/badge/medium-Bolisetty_Sujith-0077b5?style=social&logo=medium)](https://medium.com/@bsujith116)
 [![telegram badge](https://img.shields.io/badge/telegram-Suj8_h-0077b5?style=social&logo=telegram)](https://t.me/Suj8_h)

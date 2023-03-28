@@ -73,6 +73,11 @@
       <a href="https://github.com/BolisettySujith/J.A.R.V.I.S">
         <img align="center" src="gifs/jarvis.gif ">
       </a>
+    </td> 
+        <td>
+      <a href="https://github.com/Akshatji800/Relive">
+        <img align="center" src="gifs/relive.gif ">
+      </a>
     </td>    
     <td>
       <a href="https://github.com/BolisettySujith/Covi-Kill">
@@ -87,34 +92,13 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/BolisettySujith/Covi-Kill">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BolisettySujith&repo=Covi-Kill&theme=radical" />
-      </a>
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/Akshatji800/Relive">
-        <img align="center" src="gifs/relive.gif ">
-      </a>
-    </td>    
-    <td>
-      <a href="https://github.com/BolisettySujith/Just-Listen">
-        <img align="center" src="gifs/justlisten.gif">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/Akshatji800/Relive">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshatji800&repo=Relive&theme=radical" />
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/BolisettySujith/Just-Listen">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BolisettySujith&repo=Just-Listen&theme=radical" /> 
+      <a href="https://github.com/BolisettySujith/Covi-Kill">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BolisettySujith&repo=Covi-Kill&theme=radical" />
       </a>
     </td>
   </tr>

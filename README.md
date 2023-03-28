@@ -101,11 +101,6 @@
       </a>
     </td>    
     <td>
-      <a href="https://github.com/BolisettySujith/Share-Karo">
-        <img align="center" src="gifs/sharekaro.gif">
-      </a>
-    </td>
-    <td>
       <a href="https://github.com/BolisettySujith/Just-Listen">
         <img align="center" src="gifs/justlisten.gif">
       </a>
@@ -115,11 +110,6 @@
     <td align="center">
       <a href="https://github.com/Akshatji800/Relive">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshatji800&repo=Relive&theme=radical" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/BolisettySujith/Share-Karo">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BolisettySujith&repo=Share-Karo&theme=radical" />
       </a>
     </td>
     <td align="center">

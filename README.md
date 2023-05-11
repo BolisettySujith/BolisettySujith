@@ -53,7 +53,7 @@
   </p>
 </table> -->
 ## Github Stats 👨‍💻
-<table>
+<table cellpadding="0" cellspacing="0" border="0">
   <tr>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=BolisettySujith&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&theme=radical" />
@@ -67,7 +67,7 @@
 ## Projects 😉
 
 <div align="center">
-<table>
+<table cellpadding="0" cellspacing="0">
   <tr>
     <td>
       <a href="https://github.com/BolisettySujith/J.A.R.V.I.S">
@@ -104,7 +104,7 @@
   </tr>
   <tr>
 </table>
-<table>
+<table cellpadding="0" cellspacing="0" border="0">
   <td align="center">
       <a href="https://play.google.com/store/apps/details?id=in.tech.sujith.navig">
         <img align="center" src="gifs/navig_banner.gif" />

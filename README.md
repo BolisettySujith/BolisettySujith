@@ -107,7 +107,7 @@
 <table cellpadding="0" cellspacing="0" border="0">
   <td align="center">
       <a href="https://play.google.com/store/apps/details?id=in.tech.sujith.navig">
-        <img align="center" src="gifs/navig_banner.gif" />
+        <img align="center" src="images/navig_banner.png" />
       </a>
     </td>
   </tr>

@@ -23,7 +23,7 @@
 
 - 🧍‍♂️ I'm currently an active member & mentor at [amFOSS](http://www.amfoss.in)
 
-- 😎 Building [NaviG](https://bolisettysujith.github.io/NaviG-IndoorNavigation/), an Indoor Navigtion application
+- 😎 Building [NaviG](https://navig.tech/), an Indoor + Outdoor Navigtion application
 
 - 💻 I'm currently working on building 💠Flutter & 📱Native Android app's
 
@@ -99,6 +99,15 @@
     <td align="center">
       <a href="https://github.com/BolisettySujith/Covi-Kill">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BolisettySujith&repo=Covi-Kill&theme=radical" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+</table>
+<table>
+  <td align="center">
+      <a href="https://play.google.com/store/apps/details?id=in.tech.sujith.navig">
+        <img align="center" src="gifs/navig_banner.gif" />
       </a>
     </td>
   </tr>

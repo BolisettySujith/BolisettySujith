@@ -1,6 +1,8 @@
  <p align="center"><a href="https://github.com/BolisettySujith"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></a></p>
 
-<p align="center"><img src="gifs/HeaderImage.gif" alt="Profile" width="100%"/></a></p>
+<!-- <p align="center"><img src="gifs/HeaderImage.gif" alt="Profile" width="100%"/></a></p> -->
+
+![](https://github.com/BolisettySujith/BolisettySujith/assets/73323807/793fbb2c-2898-4dea-9716-5d06d7f0d0da)
 
 <div align="left">
   <h1>Hello coders, I'm Sujith! 👋 </h1>
@@ -104,21 +106,15 @@
   </tr>
   <tr>
 </table>
-<table cellpadding="0" cellspacing="0" border="0">
-  <td align="center">
-      <a href="https://play.google.com/store/apps/details?id=in.tech.sujith.navig">
-        <img align="center" src="images/navig_banner.png" />
-      </a>
-    </td>
-  </tr>
-</table>
 </div>
+
+![https://play.google.com/store/apps/details?id=in.tech.sujith.navig](https://github.com/BolisettySujith/BolisettySujith/assets/73323807/ad43d113-86a4-4d8a-b0ec-cc60f00b065e)
 
 ### Download my apps from playstore 📥
 <div align="center">
  <a href="https://play.google.com/store/apps/dev?id=6389705189108579468">
   <p align="center">
-   <img src="https://github.com/steverichey/google-play-badge-svg/blob/master/img/en_get.svg" width="40%">
+   <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="40%">
   </p>
  </a>
 </div>

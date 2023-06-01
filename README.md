@@ -2,7 +2,7 @@
 
 <!-- <p align="center"><img src="gifs/HeaderImage.gif" alt="Profile" width="100%"/></a></p> -->
 
-![](https://github.com/BolisettySujith/BolisettySujith/assets/73323807/793fbb2c-2898-4dea-9716-5d06d7f0d0da)
+![](https://github.com/BolisettySujith/BolisettySujith/assets/73323807/d2a12100-409f-4af4-93dd-c7e78e4b6527)
 
 <div align="left">
   <h1>Hello coders, I'm Sujith! 👋 </h1>

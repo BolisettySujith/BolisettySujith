@@ -2,10 +2,10 @@
 
 <!-- <p align="center"><img src="gifs/HeaderImage.gif" alt="Profile" width="100%"/></a></p> -->
 
-![](https://github.com/BolisettySujith/BolisettySujith/assets/73323807/d2a12100-409f-4af4-93dd-c7e78e4b6527)
+![](https://github.com/BolisettySujith/BolisettySujith/assets/73323807/3a8f9979-12be-44ce-8c25-ac0fb41ecc88)
 
 <div align="left">
-  <h1>Hello coders, I'm Sujith! 👋 </h1>
+  <h1>Hello coders, I'm Sujith! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
 [![twitter badge](https://img.shields.io/badge/twitter-_bolisettysujith-0077b5?style=social&logo=twitter)](https://twitter.com/bolisettysujith)
@@ -66,7 +66,7 @@
   </tr>
 </table>
 
-## Projects 😉
+<!-- ## Projects 😉
 
 <div align="center">
 <table cellpadding="0" cellspacing="0">
@@ -106,29 +106,25 @@
   </tr>
   <tr>
 </table>
-</div>
+</div> -->
+
+## Download  My Apps From [Google Play Store](https://play.google.com/store/apps/dev?id=6389705189108579468) 😉
 
 ![https://play.google.com/store/apps/details?id=in.tech.sujith.navig](https://github.com/BolisettySujith/BolisettySujith/assets/73323807/ad43d113-86a4-4d8a-b0ec-cc60f00b065e)
 
-### Download my apps from playstore 📥
-<div align="center">
- <a href="https://play.google.com/store/apps/dev?id=6389705189108579468">
-  <p align="center">
-   <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="40%">
-  </p>
- </a>
-</div>
+![https://play.google.com/store/apps/details?id=in.tech.sujith.navig](https://github.com/BolisettySujith/BolisettySujith/assets/73323807/94d1985d-b9f7-4041-8d57-8c1f16f3c36e)
 
-### My Highest Speed in Touch Typing 🤖
+
+## My Highest Speed in Touch Typing 🤖
 ![](https://user-images.githubusercontent.com/73323807/216801285-55c7b73a-a024-4ed1-9951-ec481ecb7f25.png)
 
-### Watch my contribution graph get eaten by the snake 🐍
+## Watch my contribution graph get eaten by the snake 🐍
 <p align="center">
  <img align="center" src="https://github.com/BolisettySujith/BolisettySujith/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 
-### Let's Connect 👥
+<h3 align="center">Let's Connect 👥</h3>
 <p align="center">
   <a href="https://bolisettysujith.github.io"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
   <a href="mailto:bsujith116@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
@@ -136,6 +132,7 @@
   <a href="https://linkedin.com/in/bolisettysujith/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
  <a href="https://twitter.com/bolisettysujith/"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" alt="Twitter"/></a>
  <a href="https://t.me/Suj8_h"><img src="https://img.icons8.com/bubbles/50/000000/telegram-app.png" alt="Telegram"/></a>
+ <a href="https://play.google.com/store/apps/dev?id=6389705189108579468"><img src="https://img.icons8.com/bubbles/50/000000/google-play.png" alt="Google Play"/></a>
 </p>
 
 

@@ -118,11 +118,6 @@
 ## My Highest Speed in Touch Typing 🤖
 ![](https://user-images.githubusercontent.com/73323807/216801285-55c7b73a-a024-4ed1-9951-ec481ecb7f25.png)
 
-## Watch my contribution graph get eaten by the snake 🐍
-<p align="center">
- <img align="center" src="https://github.com/BolisettySujith/BolisettySujith/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
 
 <h3 align="center">Let's Connect 👥</h3>
 <p align="center">

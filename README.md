@@ -110,7 +110,7 @@
 
 ## Download  My Apps From [Google Play Store](https://play.google.com/store/apps/dev?id=6389705189108579468) 😉
 
-![https://play.google.com/store/apps/details?id=in.tech.sujith.navig](https://github.com/BolisettySujith/BolisettySujith/assets/73323807/ad43d113-86a4-4d8a-b0ec-cc60f00b065e)
+![https://play.google.com/store/apps/details?id=in.tech.sujith.navig](https://github.com/BolisettySujith/BolisettySujith/assets/73323807/d5b8f7bc-4b95-4623-8f05-4d663496369c)
 
 ![https://play.google.com/store/apps/details?id=in.tech.sujith.navig](https://github.com/BolisettySujith/BolisettySujith/assets/73323807/94d1985d-b9f7-4041-8d57-8c1f16f3c36e)
 

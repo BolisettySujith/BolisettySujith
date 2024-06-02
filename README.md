@@ -8,11 +8,10 @@
   <h1>Hello coders, I'm Sujith! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
-[![twitter badge](https://img.shields.io/badge/twitter-_bolisettysujith-0077b5?style=social&logo=twitter)](https://twitter.com/bolisettysujith)
+[![twitter badge](https://img.shields.io/badge/x-_bolisettysujith-0077b5?style=social&logo=twitter)](https://twitter.com/bolisettysujith)
 [![linkedin badge](https://img.shields.io/badge/linkedin-bolisetty_sujith-0077b5?style=social&logo=linkedin)](https://www.linkedin.com/in/bolisettysujith/)
 [![dev community badge](https://img.shields.io/badge/dev-Bolisetty_Sujith-0077b5?style=social&logo=dev.to)](https://dev.to/bolisettysujith)
 [![Medium badge](https://img.shields.io/badge/medium-Bolisetty_Sujith-0077b5?style=social&logo=medium)](https://medium.com/@bsujith116)
-[![telegram badge](https://img.shields.io/badge/telegram-Suj8_h-0077b5?style=social&logo=telegram)](https://t.me/Suj8_h)
 [![blog badge](https://img.shields.io/badge/website-bolisettysujith.github.io-1f425f?style=social)](https://bolisettysujith.github.io)
 
 <p align="left"> 
@@ -23,15 +22,14 @@
 
 - 🏫 I'm a Computer Science(AI) Undergraduate(2020-2024)
 
-- 🧍‍♂️ I'm currently an active member & mentor at [amFOSS](http://www.amfoss.in)
+- 🧍‍♂️ I'm a member & mentor at [amFOSS](http://www.amfoss.in)
 
-- 😎 Building [NaviG](https://navig.tech/), an Indoor + Outdoor Navigtion application
+- 😎 I'm the creator of [NaviG](https://navig.tech/), an Indoor + Outdoor Navigtion App 🗺️
 
-- 💻 I'm currently working on building 💠Flutter & 📱Native Android app's
-
+- 💻 I'm currently working on building a new awesome mobile app 📱 (Hint: Game)
 - 💬 Ask me about : 💙Flutter, 👽Android, 🎨Designing, 🎸Acoustic guitar, 💻computers 😅
 
-- ⌨ Touch typing is one of my hobbie, and I'm curretnly maintaining a speed of ~75WPM 😉
+- ⌨ Touch typing is one of my hobbie, and I'm currently maintaining a speed of ~90WPM 😉
 
 - 🗣 Pronouns: He/His/Him
 
@@ -66,7 +64,19 @@
   </tr>
 </table>
 
-<!-- ## Projects 😉
+
+## Download  My Apps From [Google Play Store](https://play.google.com/store/apps/dev?id=6389705189108579468) ▶️
+
+<a href="https://play.google.com/store/apps/details?id=in.tech.sujith.navig">
+<img src="https://github.com/BolisettySujith/BolisettySujith/assets/73323807/d5b8f7bc-4b95-4623-8f05-4d663496369c" alt="NaviG Play Store, https://play.google.com/store/apps/details?id=in.tech.sujith.navig"/>
+</a>
+
+<a href="https://play.google.com/store/apps/details?id=com.sujith.covi_kill">
+<img src="https://github.com/BolisettySujith/BolisettySujith/assets/73323807/94d1985d-b9f7-4041-8d57-8c1f16f3c36e" alt="Virus Maar Play Store, https://play.google.com/store/apps/details?id=com.sujith.covi_kill"/>
+</a>
+
+
+## OSS Projects 😉
 
 <div align="center">
 <table cellpadding="0" cellspacing="0">
@@ -82,8 +92,8 @@
       </a>
     </td>    
     <td>
-      <a href="https://github.com/BolisettySujith/Covi-Kill">
-        <img align="center" src="gifs/covikill.gif">
+      <a href="https://github.com/BolisettySujith/Share-Karo">
+        <img align="center" src="gifs/sharekaro.gif">
       </a>
     </td>
   </tr>
@@ -99,23 +109,17 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/BolisettySujith/Covi-Kill">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BolisettySujith&repo=Covi-Kill&theme=radical" />
+      <a href="https://github.com/BolisettySujith/Share-Karo">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BolisettySujith&repo=Share-Karo&theme=radical" />
       </a>
     </td>
   </tr>
   <tr>
 </table>
-</div> -->
-
-## Download  My Apps From [Google Play Store](https://play.google.com/store/apps/dev?id=6389705189108579468) 😉
-
-![https://play.google.com/store/apps/details?id=in.tech.sujith.navig](https://github.com/BolisettySujith/BolisettySujith/assets/73323807/d5b8f7bc-4b95-4623-8f05-4d663496369c)
-
-![https://play.google.com/store/apps/details?id=in.tech.sujith.navig](https://github.com/BolisettySujith/BolisettySujith/assets/73323807/94d1985d-b9f7-4041-8d57-8c1f16f3c36e)
+</div>
 
 
-## My Highest Speed in Touch Typing 🤖
+## Highest Speed in Touch Typing 🤖
 ![](https://user-images.githubusercontent.com/73323807/216801285-55c7b73a-a024-4ed1-9951-ec481ecb7f25.png)
 
 

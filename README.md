@@ -120,7 +120,8 @@
 
 
 ## Highest Speed in Touch Typing 🤖
-![](https://user-images.githubusercontent.com/73323807/216801285-55c7b73a-a024-4ed1-9951-ec481ecb7f25.png)
+![image](https://github.com/user-attachments/assets/56044ce4-0b3e-4bc2-ba8c-04b2db07a558)
+
 
 
 <h3 align="center">Let's Connect 👥</h3>

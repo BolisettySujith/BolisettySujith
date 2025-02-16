@@ -18,7 +18,7 @@
   <img src="https://komarev.com/ghpvc/?username=BolisettySujith" alt="BolisettySujith" /> 
 </p>
 
-## About Me 😇
+<!-- ## About Me 😇
 
 - 🏫 I'm a Computer Science(AI) Undergraduate(2020-2024)
 
@@ -31,7 +31,7 @@
 
 - ⌨ Touch typing is one of my hobbie, and I'm currently maintaining a speed of ~90WPM 😉
 
-- 🗣 Pronouns: He/His/Him
+- 🗣 Pronouns: He/His/Him -->
 
 <!-- ## Skills 👨‍💻
 <table>
@@ -52,17 +52,6 @@
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
   </p>
 </table> -->
-## Github Stats 👨‍💻
-<table cellpadding="0" cellspacing="0" border="0">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=BolisettySujith&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&theme=radical" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=BolisettySujith&theme=radical&hide_border=false" />
-    </td>
-  </tr>
-</table>
 
 
 ## Download  My Apps From [Google Play Store](https://play.google.com/store/apps/dev?id=6389705189108579468) ▶️
@@ -76,7 +65,7 @@
 </a>
 
 
-## OSS Projects 😉
+## My Projects...😉
 
 <div align="center">
 <table cellpadding="0" cellspacing="0">
@@ -119,8 +108,20 @@
 </div>
 
 
-## Highest Speed in Touch Typing 🤖
+## Speed in Touch Typing 🤖
 ![image](https://github.com/user-attachments/assets/56044ce4-0b3e-4bc2-ba8c-04b2db07a558)
+
+## Github Stats 👨‍💻
+<table cellpadding="0" cellspacing="0" border="0">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=BolisettySujith&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&theme=radical" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=BolisettySujith&theme=radical&hide_border=false" />
+    </td>
+  </tr>
+</table>
 
 
 
